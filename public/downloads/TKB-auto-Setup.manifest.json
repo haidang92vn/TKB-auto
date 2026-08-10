@@ -1,7 +1,7 @@
 ﻿{
     "fileName":  "TKB-auto-Setup.exe",
-    "bytes":  77620736,
-    "sha256":  "BD04C62C3DE882AF066B73D81D566993C36ECAB8C643FD3364DF7AA0559991C5",
+    "bytes":  84228096,
+    "sha256":  "FF5C3BD93081275557941E4988D6DFDF5661D5BDA8C32DCD6357C1A02AB35DE4",
     "parts":  [
                   {
                       "file":  "TKB-auto-Setup.part01",
@@ -41,7 +41,11 @@
                   },
                   {
                       "file":  "TKB-auto-Setup.part10",
-                      "bytes":  2123264
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part11",
+                      "bytes":  342016
                   }
               ]
 }
