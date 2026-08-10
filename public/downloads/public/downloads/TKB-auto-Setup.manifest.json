@@ -1,0 +1,51 @@
+﻿{
+    "fileName":  "TKB-auto-Setup.exe",
+    "bytes":  84229632,
+    "sha256":  "0297D16FEE15133FD6FDAC04E1BEA11F424E99B9721EA6478AFA60CC3E2A13FB",
+    "parts":  [
+                  {
+                      "file":  "TKB-auto-Setup.part01",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part02",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part03",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part04",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part05",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part06",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part07",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part08",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part09",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part10",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup.part11",
+                      "bytes":  343552
+                  }
+              ]
+}
