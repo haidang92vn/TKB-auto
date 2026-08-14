@@ -1,0 +1,59 @@
+﻿{
+    "fileName":  "TKB-auto-Setup-2.6.0.exe",
+    "bytes":  105920512,
+    "sha256":  "F8494A7D2AC783FEFAA9B750B204FDB2D0BAAFAA8B5E6AC38977395BB95768FF",
+    "parts":  [
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part01",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part02",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part03",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part04",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part05",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part06",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part07",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part08",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part09",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part10",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part11",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part12",
+                      "bytes":  8388608
+                  },
+                  {
+                      "file":  "TKB-auto-Setup-2.6.0.part13",
+                      "bytes":  5257216
+                  }
+              ]
+}
