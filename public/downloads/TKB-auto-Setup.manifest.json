@@ -1,59 +1,59 @@
 ﻿{
-    "fileName":  "TKB-auto-Setup-2.7.5.exe",
-    "bytes":  105939968,
-    "sha256":  "2E54927657B7FDFFB84BEA90D6254AD9AB83870993AAB8836A51E318E9F7E13C",
+    "fileName":  "TKB-auto-Setup-2.7.7.exe",
+    "bytes":  105965568,
+    "sha256":  "DB479FD50356526E2ADFF18CFC65FE837FD8686F3D13180BDF89EC9F9C70ABD6",
     "parts":  [
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part01",
+                      "file":  "TKB-auto-Setup-2.7.7.part01",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part02",
+                      "file":  "TKB-auto-Setup-2.7.7.part02",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part03",
+                      "file":  "TKB-auto-Setup-2.7.7.part03",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part04",
+                      "file":  "TKB-auto-Setup-2.7.7.part04",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part05",
+                      "file":  "TKB-auto-Setup-2.7.7.part05",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part06",
+                      "file":  "TKB-auto-Setup-2.7.7.part06",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part07",
+                      "file":  "TKB-auto-Setup-2.7.7.part07",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part08",
+                      "file":  "TKB-auto-Setup-2.7.7.part08",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part09",
+                      "file":  "TKB-auto-Setup-2.7.7.part09",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part10",
+                      "file":  "TKB-auto-Setup-2.7.7.part10",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part11",
+                      "file":  "TKB-auto-Setup-2.7.7.part11",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part12",
+                      "file":  "TKB-auto-Setup-2.7.7.part12",
                       "bytes":  8388608
                   },
                   {
-                      "file":  "TKB-auto-Setup-2.7.5.part13",
-                      "bytes":  5276672
+                      "file":  "TKB-auto-Setup-2.7.7.part13",
+                      "bytes":  5302272
                   }
               ]
 }
